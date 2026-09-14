@@ -1,0 +1,3 @@
+# VRM is a binary glTF container. Treat as binary so Git never applies
+# text/CRLF conversion (that produces "Offset is outside the bounds of the DataView").
+*.vrm binary
