@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/chat": {},
+    "/api/health": {},
+    "/api/tts": {}
+  }
+}

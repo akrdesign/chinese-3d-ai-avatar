@@ -1,0 +1,3 @@
+module.exports=[27572,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"zh-CN",children:(0,b.jsx)("body",{className:"bg-[#0b0e14] text-slate-100 antialiased",children:a})})},"metadata",0,{title:"小晨 · 3D AI 数字助理",description:"会说中文的 3D 虚拟人：DeepSeek 对话 + 免费微软神经语音 + 实时口型同步。"},"viewport",0,{themeColor:"#0b0e14"}])},50645,a=>{a.n(a.i(27572))}];
+
+//# sourceMappingURL=src_app_layout_tsx_0fhx__n._.js.map
